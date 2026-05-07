@@ -25,3 +25,5 @@
 | | `seatApi.js` | **좌석 DB 통신**. 좌석 상태 업데이트 및 퇴실 시 '실제 사용 시간'을 계산하는 기능 |
 | | `authApi.js` | **인증 통신**. 파이어베이스(Firebase) Auth와 통신하여 로그인/로그아웃 처리 |
 | | `logger.js` | **기록(Log) 작성기**. 도서관에서 일어나는 모든 이벤트(예약, 퇴실, 신고, 제재 등)를 DB에 히스토리로 저장 |
+
+<img width="1208" height="1218" alt="image" src="https://github.com/user-attachments/assets/0cda1b21-500b-4632-b4d0-439f866a3773" />
